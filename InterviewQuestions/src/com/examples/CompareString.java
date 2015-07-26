@@ -9,7 +9,7 @@ public class CompareString {
 
 		if (s1.length() != 0 && s2.length() != 0 && (s1.length() == s2.length())) {
 
-			String s1s1 = s1 + s1;
+			//String s1s1 = s1 + s1;
 			//s1s1.isSubstring(s2);			
 			
 		}
