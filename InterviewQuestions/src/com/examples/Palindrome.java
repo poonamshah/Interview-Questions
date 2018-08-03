@@ -13,7 +13,7 @@ public class Palindrome {
 		}
 
 		if (s.equals(reverse)) {
-			System.out.println("String is a plaindrome");
+			System.out.println("String is a palindrome");
 		}
 	}
 
